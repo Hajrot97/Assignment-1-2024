@@ -1,0 +1,147 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange{
+    color: rgb(248, 187, 72);
+}
+h1{
+    font-size: 65px;
+}
+a:hover{
+    background-color: brown;
+}
+a{
+    text-decoration: none;
+    background-color: #FF5959;
+    margin-top: 10px;
+    padding: 15px 30px;
+    border-radius: 15px;
+    width: 100px;
+    color: white;
+    font-weight: 600;
+    display: block;
+}
+.section-1{
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 140px;
+}
+.half-width{
+    width: 30%;
+    margin-left: 14%;
+}
+.half-width img{
+    width: 500px;
+}
+
+/* section-2 is start from here */
+.my-mission-2022{
+    font-size: 45px;
+    font-weight: 800;
+    text-align: center;
+}
+.Mission{
+    height: 350px;
+    width: 350px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 20px;
+    margin-left: 50px;
+    padding: 10px;
+}
+.Vission{
+    height: 350px;
+    width: 350px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 20px;
+    margin-inline: 50px;
+    padding: 10px;
+}
+.Goals{
+    height: 350px;
+    width: 350px;
+    background: rgba(255, 244, 214, 1);
+    border-radius: 20px;
+    padding: 10px;
+}
+.container{
+    display: flex;
+    text-align: center;
+    margin-left: 300px;
+}
+.container img{
+    width: 180px;
+}
+.section-2{
+    margin-bottom: 200px;
+}
+
+/* section-3 is start from here */
+.section-3{
+    background-image: url(../images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: -60px;
+    display: flex;
+    margin-bottom: 200px;
+}
+.section-3 img{
+    width: 600px;
+}
+.section-3 a:hover{
+    background-color: brown;
+}
+.section-3 a{
+    text-decoration: none;
+    background-color: #FF5959;
+    margin-top: 10px;
+    padding: 10px 45px;
+    border-radius: 15px;
+    width: 100px;
+    color: white;
+    font-weight: 600;
+    display: block;
+}
+
+/* section-4 is stat from here */
+.section-4{
+    background-image: url(../images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    margin-bottom: 200px;
+}
+.section-4 img{
+    width: 600px;
+    margin-left: 80px;
+}
+.section-4 a:hover{
+    background-color: brown;
+}
+.section-4 a{
+    text-decoration: none;
+    background-color: #FF5959;
+    margin-top: 10px;
+    padding: 10px 45px;
+    border-radius: 15px;
+    width: 100px;
+    color: white;
+    font-weight: 600;
+    display: block;
+}
+
+/* section-5 is start from here */
+.section-5{
+    background-color: black;
+    text-align: center;
+}
+.white-color{
+    color: white;
+    margin-bottom: 0;
+}
+
+.footer-section{
+    color: rgba(255, 89, 89, 1);
+}
+footer{
+    color: white;
+}
